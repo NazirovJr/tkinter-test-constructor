@@ -1,0 +1,18 @@
+Amount 1
+2+3
+3
+2
+5
+Answer: c
+Amount 2
+log5
+log5
+3
+6
+Answer: a
+Amount 3
+45+7
+46
+47
+52
+Answer: c
